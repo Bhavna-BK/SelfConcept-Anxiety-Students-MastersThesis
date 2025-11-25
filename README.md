@@ -46,3 +46,6 @@ If referencing this work, please cite:
 ## Author
 **Bhavna Kakkar**  
 M.A. Clinical Psychology  
+
+## Acknowledgments
+Supervised by Dr. Pankaj Singh
